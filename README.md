@@ -1,3 +1,4 @@
 # dotfiles
-- tmux
-- vim
+this is a repository copied from kent
+- TMUX
+- VIM
